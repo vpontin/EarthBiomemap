@@ -1,0 +1,11 @@
+Ocean -> 0x0046AF
+Plains -> 0x99D93A
+Beach -> 0xFFEFA8
+Moutains -> 0x808080
+Ice Plains -> 0xFFFFFF
+Desert -> 0xFFC28C
+Savanna -> 0xCEC980
+Jungle -> 0x008E0E
+Forest -> 0x378E0E
+Taiga -> 0x004A0E
+Snowy Taiga -> 0x244955
