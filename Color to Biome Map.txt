@@ -1,19 +1,80 @@
-Ocean -> 0x0046AF
-FrozenOcean -> 0x3464AD
-River -> 0x2F69BF
-FrozenRiver -> 0x5F87BF
-Plains -> 0x99D93A
-Beach -> 0xFFEFA8
-Cold Beach -> 0xBFAF5F
-Moutains -> 0x808080
+Ocean -> 0x000070
+Plains -> 0x8DB360
+Desert -> 0xFA9418
+Extreme Hills -> 0x606060
+Forest -> 0x056621
+Taiga -> 0x0B6659
+Swampland -> 0x07F9B2
+River -> 0x0000FF
+Hell -> 0xFF0000
+The End -> 0x8080FF
+Frozen Ocean -> 0x9090A0
+Frozen River -> 0xA0A0FF
 Ice Plains -> 0xFFFFFF
-Desert -> 0xFFC28C
-Savanna -> 0xCEC980
-Jungle -> 0x008E0E
-JungleEdge -> 0x13BF21
-Birch Forest -> 0x4F8C31
-Forest -> 0x378E0E
-Taiga -> 0x004A0E
-Snowy Taiga -> 0x244955
-Swampland -> 0x457F3F
-Mesa -> 0xAA8033
+Ice Mountains -> 0xA0A0A0
+Mushroom Island -> 0xFF00FF
+Mushroom Island Shore -> 0xA000FF
+Beach -> 0xFADE55
+Desert Hills -> 0xD25F12
+Forest Hills -> 0x22551C
+Taiga Hills -> 0x163933
+Extreme Hills Edge -> 0x72789A
+Jungle -> 0x537B09
+Jungle Hills -> 0x2C4205
+Jungle Edge -> 0x628B17
+Deep Ocean -> 0x000030
+Stone Beach -> 0xA2A284
+Cold Beach -> 0xFAF0C0
+Birch Forest -> 0x307444
+Birch Forest Hills -> 0x1F5F32
+Roofed Forest -> 0x40511A
+Cold Taiga -> 0x31554A
+Cold Taiga Hills -> 0x243F36
+Mega Taiga -> 0x596651
+Mega Taiga Hills -> 0x454F3E
+Extreme Hills+ -> 0x507050
+Savanna -> 0xBDB25F
+Savanna Plateau -> 0xA79D64
+Mesa -> 0xD94515
+Mesa Plateau F -> 0xB09765
+Mesa Plateau -> 0xCA8C65
+Ocean M -> 0x282898
+Sunflower Plains -> 0xB5DB88
+Desert M -> 0xFFBC40
+Extreme Hills M -> 0x888888
+Flower Forest -> 0x2D8E49
+Taiga M -> 0x338E81
+Swampland M -> 0x2FFFDA
+River M -> 0x2828FF
+Hell M -> 0xFF2828
+Sky M -> 0xA8A8FF
+Frozen Ocean M -> 0xB8B8C8
+Frozen River M -> 0xC8C8FF
+Ice Plains Spikes -> 0xB4DCDC
+Ice Mountains M -> 0xC8C8C8
+Mushroom Island M -> 0xFF28FF
+Mushroom Island Shore M -> 0xC828FF
+Beach M -> 0xFFFF7D
+Desert Hills M -> 0xFA873A
+Forest Hills M -> 0x4A7D44
+Taiga Hills M -> 0x3E615B
+Extreme Hills Edge M -> 0x9AA0C2
+Jungle M -> 0x7BA331
+Jungle Hills M -> 0x546A2D
+Jungle Edge M -> 0x8AB33F
+Deep Ocean M -> 0x282858
+Stone Beach M -> 0xCACAAC
+Cold Beach M -> 0xFFFFE8
+Birch Forest M -> 0x589C6C
+Birch Forest Hills M -> 0x47875A
+Roofed Forest M -> 0x687942
+Cold Taiga M -> 0x597D72
+Cold Taiga Hills M -> 0x4C675E
+Mega Spruce Taiga -> 0x818E79
+Mega Spruce Taiga (Hills) -> 0x6D7766
+Extreme Hills+ M -> 0x789878
+Savanna M -> 0xE5DA87
+Savanna Plateau M -> 0xCFC58C
+Mesa (Bryce) -> 0xFF6D3D
+Mesa Plateau F M -> 0xD8BF8D
+Mesa Plateau M -> 0xF2B48D
